@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">BsuirAttendance</string>
+    <string name="app_name">Посещаемость занятий</string>
+    <string name="start_work">Начать работу</string>
 </resources>

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\myProject\\android\\BsuirAttendance\\aFileChooser\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-de\\values-de.xml",
+            "map": [
+                {
+                    "source": "D:\\myProject\\android\\BsuirAttendance\\aFileChooser\\build\\intermediates\\bundles\\debug\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,170,248",
+                        "endColumns": "56,57,77,70",
+                        "endOffsets": "107,165,243,314"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,170,349",
+                        "endColumns": "56,57,77,70",
+                        "endOffsets": "107,165,243,415"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\d6d98159c7b6131105c5502429154e49\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "248",
+                        "endColumns": "100",
+                        "endOffsets": "344"
+                    }
+                }
+            ]
+        }
+    ]
+}
