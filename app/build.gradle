@@ -29,4 +29,6 @@ dependencies {
     compile files('libs/androidtfm.jar')
     compile 'org.slf4j:slf4j-api:1.7.21'
     compile 'com.github.tony19:logback-android:1.1.1-8'
+    compile 'com.squareup.retrofit2:retrofit:2.1.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.1.0'
 }
